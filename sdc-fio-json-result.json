@@ -1,0 +1,9 @@
+25/11/2019 15:57:46
+{"blocksize": "4k", "rwtype": "read", "iops": [34820.752987,31001.132295], "bw": [139283,124004]}
+{"blocksize": "4k", "rwtype": "write", "iops": [40219.579674,39068.052363], "bw": [160878,156272]}
+{"blocksize": "4k", "rwtype": "randread", "iops": [437.441845,303.841638], "bw": [1749,1215]}
+{"blocksize": "4k", "rwtype": "randwrite", "iops": [1452.848085,600.245187], "bw": [5811,2400]}
+{"blocksize": "8k", "rwtype": "read", "iops": [6418.163458,4751.561173], "bw": [51345,38012]}
+{"blocksize": "8k", "rwtype": "write", "iops": [13173.480442,19589.768356], "bw": [105387,156718]}
+{"blocksize": "8k", "rwtype": "randread", "iops": [430.683857,295.541212], "bw": [3445,2364]}
+{"blocksize": "8k", "rwtype": "randwrite", "iops": [1380.860448,573.813752], "bw": [11046,4590]}
